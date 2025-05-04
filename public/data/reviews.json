@@ -1,0 +1,32 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Aisha Kumar",
+      "title": "Fashion Enthusiast",
+      "review": "I absolutely love the quality and design of the clothes. They are stylish, comfortable, and always fit perfectly. Highly recommend this brand to anyone looking for great fashion!",
+      "image_url": "https://i.pinimg.com/originals/07/33/ba/0733ba760b29378474dea0fdbcb97107.png"
+    },
+    {
+      "id": 2,
+      "name": "Rajesh Patel",
+      "title": "Loyal Customer",
+      "review": "The shopping experience was amazing! The site is easy to navigate, and the customer service is fantastic. I’ll definitely be coming back for more.",
+      "image_url": "https://wallpapers.com/images/hd/professional-profile-pictures-1168-x-1164-394dus1go9limvka.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Maya Singh",
+      "title": "Fashion Blogger",
+      "review": "I am so impressed with the fabric and fit of the clothes. The designs are unique and the overall experience from order to delivery was seamless.",
+      "image_url": "https://i.pinimg.com/originals/83/10/ab/8310ab709f70727b92fa1a6917897c82.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Karan Verma",
+      "title": "First-Time Shopper",
+      "review": "This was my first order, and I was blown away by how well everything was packaged and how fast it arrived. The clothes are top-notch—will definitely shop again!",
+      "image_url": "https://cdn.getmerlin.in/cms/merlin_blog_types_of_profile_pictures_professional_profile_picture_43d9a8e4b9.png"
+    }
+  ]
+}

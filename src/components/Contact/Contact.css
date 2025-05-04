@@ -1,0 +1,99 @@
+.contact {
+  margin-top: 100px;
+}
+
+.contact-section {
+  padding: 4rem 1rem;
+  background-color: #f9f9f9;
+  margin-top: 30px;
+}
+
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.map-container iframe {
+  width: 100%;
+  border-radius: 8px;
+  border: none;
+}
+
+.contact-form {
+  background-color: #fafafa;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.contact-inputs-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.contact-input-field,
+.contact-textarea {
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  border: 1px solid gainsboro;
+  border-radius: 4px;
+  width: 100%;
+  box-sizing: border-box;
+  transition: border-color 0.3s ease;
+}
+
+.contact-textarea {
+  min-height: 120px;
+  resize: vertical;
+}
+
+.contact-input-field:focus,
+.contact-textarea:focus {
+  border-color: #4b7bec;
+  outline: none;
+}
+
+.contact-submit-button {
+  background-color: #242424;
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.contact-submit-button:hover {
+  background-color: #000000;
+}
+
+/* Responsive Layout for Large Screens */
+@media (min-width: 768px) {
+  .contact-container {
+    flex-direction: row;
+    gap: 3rem;
+  }
+
+  .map-container,
+  .contact-form {
+    flex: 1;
+  }
+
+  .contact-inputs-container {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+
+  .contact-input-field {
+    flex: 1 1 30%;
+  }
+}

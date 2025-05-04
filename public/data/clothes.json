@@ -1,0 +1,365 @@
+{
+  "total": 30,
+  "products": [
+    {
+      "id": 1,
+      "title": "Men's Slim Fit Shirt",
+      "price": 34.99,
+      "description": "Classic fit cotton shirt with button-down collar",
+      "category": "men",
+      "image": "https://res.cloudinary.com/dasvdkncm/image/upload/v1745123241/Plain-white-formal-shirt_pnlmru.jpg",
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["blue", "white", "gray"]
+    },
+    {
+      "id": 2,
+      "title": "Men's Chino Pants",
+      "price": 49.99,
+      "description": "Stretchable chinos for casual comfort",
+      "category": "men",
+      "image": "https://modone.com/eng_pl_Mens-pants-chinos-P830-grey-13372_3.jpg",
+      "sizes": ["30x32", "32x32", "34x32"],
+      "colors": ["khaki", "navy", "black"]
+    },
+    {
+      "id": 3,
+      "title": "Women's Summer Dress",
+      "price": 45.99,
+      "description": "Flowy chiffon dress with floral print",
+      "category": "women",
+      "image": "https://i.pinimg.com/originals/40/1b/30/401b30d9b70b811dae14b17fe54f3e70.jpg",
+      "sizes": ["XS", "S", "M"],
+      "colors": ["floral", "blue", "pink"]
+    },
+    {
+      "id": 4,
+      "title": "Women's Denim Jacket",
+      "price": 59.99,
+      "description": "Classic fit denim jacket with front pockets",
+      "category": "women",
+      "image": "https://res.cloudinary.com/dasvdkncm/image/upload/v1746242917/76e0a704cacd0cbf22b08dfc4f602231--concepts-denim-jackets-removebg-preview_xi8atm.png",
+      "sizes": ["S", "M", "L"],
+      "colors": ["light wash", "dark wash"]
+    },
+    {
+      "id": 5,
+      "title": "Kids' Dinosaur T-Shirt",
+      "price": 12.99,
+      "description": "100% cotton tee with fun print",
+      "category": "kids",
+      "image": "https://i.pinimg.com/originals/9d/ee/a5/9deea50af75ea49b81b258e2e5ca4c3a.jpg",
+      "sizes": ["2T", "3T", "4T"],
+      "colors": ["red", "blue"]
+    },
+    {
+      "id": 6,
+      "title": "Running Shoes",
+      "price": 89.99,
+      "description": "Lightweight shoes with cushioned soles",
+      "category": "sports",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2hvZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "sizes": ["7", "8", "9", "10"],
+      "colors": ["black", "white"]
+    },
+    {
+      "id": 7,
+      "title": "Yoga Leggings",
+      "price": 34.99,
+      "description": "High-waist performance leggings",
+      "category": "sports",
+      "image": "https://contents.mediadecathlon.com/p1786775/2000x2000/sq/long_seamless_yoga_leggings_-_black_domyos_by_decathlon_8556271_1786775.jpg?k=db84fc6602145f5f7a0a5af4b64039fd",
+      "sizes": ["S", "M", "L"],
+      "colors": ["black", "gray"]
+    },
+    {
+      "id": 8,
+      "title": "Men's Winter Jacket",
+      "price": 129.99,
+      "description": "Waterproof insulated winter coat",
+      "category": "men",
+      "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8amFja2V0fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "sizes": ["M", "L", "XL"],
+      "colors": ["black", "navy"]
+    },
+    {
+      "id": 9,
+      "title": "Women's Blouse",
+      "price": 39.99,
+      "description": "Silky blouse with delicate details",
+      "category": "women",
+      "image": "https://i5.walmartimages.com/asr/732d0e94-2f67-4654-86c3-8094d367b3bf.aacffd8c174d0ea2b8a6ca4fe365541b.jpeg",
+      "sizes": ["XS", "S", "M"],
+      "colors": ["white", "cream"]
+    },
+    {
+      "id": 10,
+      "title": "Kids' Hoodie",
+      "price": 24.99,
+      "description": "Warm fleece hoodie with front pocket",
+      "category": "kids",
+      "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8a2lkcyUyMGhvb2RpZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "sizes": ["4T", "5T", "6T"],
+      "colors": ["blue", "pink"]
+    },
+    {
+      "id": 11,
+      "title": "Men's Leather Belt",
+      "price": 29.99,
+      "description": "Genuine leather belt with metal buckle",
+      "category": "men",
+      "image": "https://i.etsystatic.com/26967723/r/il/4729b3/3093108435/il_fullxfull.3093108435_4vi7.jpg",
+      "sizes": ["32", "34", "36"],
+      "colors": ["brown", "black"]
+    },
+    {
+      "id": 12,
+      "title": "Women's Silk Scarf",
+      "price": 24.99,
+      "description": "Luxury silk scarf with floral pattern",
+      "category": "women",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.T2vXUxeNonUfCQfmQcVl2wHaFj&pid=Api&P=0&h=180",
+      "sizes": ["One Size"],
+      "colors": ["multicolor", "blue"]
+    },
+    {
+      "id": 13,
+      "title": "Kids' Rain Boots",
+      "price": 19.99,
+      "description": "Waterproof rubber boots with fun prints",
+      "category": "kids",
+      "image": "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_1200,w_1200,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/RedRoma_Rain_Boots_kids_uooz8d.jpg",
+      "sizes": ["10", "11", "12"],
+      "colors": ["yellow", "pink"]
+    },
+    {
+      "id": 14,
+      "title": "Cycling Shorts",
+      "price": 44.99,
+      "description": "Padded shorts for long-distance cycling",
+      "category": "sports",
+      "image": "http://road.cc/sites/default/files/images/Gore%20Bike%20Wear%20Xenon%20Race%20Bib%20shorts/Gore%20Bike%20Wear%20xxx%20bibshorts%20-%20riding.jpg",
+      "sizes": ["S", "M", "L"],
+      "colors": ["black", "blue"]
+    },
+    {
+      "id": 15,
+      "title": "Men's Swim Trunks",
+      "price": 34.99,
+      "description": "Quick-dry swim shorts with mesh lining",
+      "category": "men",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.FVbVG13ccukiuH3zu9cv6AHaIq&pid=Api&P=0&h=180",
+      "sizes": ["M", "L", "XL"],
+      "colors": ["navy", "red"]
+    },
+    {
+      "id": 16,
+      "title": "Women's Winter Coat",
+      "price": 149.99,
+      "description": "Wool blend coat with faux fur trim",
+      "category": "women",
+      "image": "https://www.jacketsexpert.com/wp-content/uploads/2020/12/womens-winter-coat.jpg",
+      "sizes": ["XS", "S", "M"],
+      "colors": ["camel", "black"]
+    },
+    {
+      "id": 17,
+      "title": "Kids' Backpack",
+      "price": 22.99,
+      "description": "Durable school backpack with multiple pockets",
+      "category": "kids",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.DfftnZMrej_OGblfYEsvRgHaHa&pid=Api&P=0&h=180",
+      "sizes": ["One Size"],
+      "colors": ["blue", "pink"]
+    },
+    {
+      "id": 18,
+      "title": "Basketball Jersey",
+      "price": 54.99,
+      "description": "Authentic replica team jersey",
+      "category": "sports",
+      "image": "https://laz-img-sg.alicdn.com/p/398fa54ff161ac885380c28ea9605cf9.jpg",
+      "sizes": ["S", "M", "L"],
+      "colors": ["team colors"]
+    },
+    {
+      "id": 19,
+      "title": "Men's Dress Shoes",
+      "price": 89.99,
+      "description": "Classic oxford shoes in genuine leather",
+      "category": "men",
+      "image": "https://www.dhresource.com/0x0/f2/albu/g2/M00/B7/69/rBVaG1aU0AaAWMVVAAfAlz4FkZE192.jpg",
+      "sizes": ["8", "9", "10", "11"],
+      "colors": ["black", "brown"]
+    },
+    {
+      "id": 20,
+      "title": "Women's Handbag",
+      "price": 79.99,
+      "description": "Structured leather handbag with gold hardware",
+      "category": "women",
+      "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?ixlib=rb-4.0.3&w=500&auto=format&fit=crop",
+      "sizes": ["One Size"],
+      "colors": ["black", "tan"]
+    },
+    {
+      "id": 21,
+      "title": "Men's Athletic Shorts",
+      "price": 29.99,
+      "description": "Moisture-wicking performance shorts",
+      "category": "men",
+      "image": "https://m.media-amazon.com/images/I/7138QTiH4fL._AC_UL1500_.jpg",
+      "sizes": ["S", "M", "L"],
+      "colors": ["black", "gray"]
+    },
+    {
+      "id": 22,
+      "title": "Women's Running Tights",
+      "price": 49.99,
+      "description": "Compression tights with phone pocket",
+      "category": "women",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.ywtppki_UCcFs4fX4GodYwHaHZ&pid=Api&P=0&h=180",
+      "sizes": ["XS", "S", "M"],
+      "colors": ["black", "purple"]
+    },
+    {
+      "id": 23,
+      "title": "Kids' Snowsuit",
+      "price": 69.99,
+      "description": "Waterproof snowsuit with insulation",
+      "category": "kids",
+      "image": "https://cdn.shopify.com/s/files/1/1385/5173/products/kids-snowsuit-arctic-bay-made-in-canada_10_1024x1024.jpg?v=1535151262",
+      "sizes": ["2T", "3T", "4T"],
+      "colors": ["blue", "pink"]
+    },
+    {
+      "id": 24,
+      "title": "Gym Gloves",
+      "price": 19.99,
+      "description": "Padded weightlifting gloves",
+      "category": "sports",
+      "image": "http://burnlab.co/cdn/shop/collections/wrist_fb619588-c32e-47e9-b3ae-b97c1fc41760.jpg?v=1646024650",
+      "sizes": ["S/M", "L/XL"],
+      "colors": ["black", "red"]
+    },
+    {
+      "id": 25,
+      "title": "Men's Cashmere Sweater",
+      "price": 129.99,
+      "description": "100% cashmere crewneck sweater",
+      "category": "men",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.h12_nGMu9FEXL-imkJp6YgHaHa&pid=Api&P=0&h=180",
+      "sizes": ["S", "M", "L"],
+      "colors": ["navy", "gray"]
+    },
+    {
+      "id": 26,
+      "title": "Women's Leather Jacket",
+      "price": 199.99,
+      "description": "Genuine leather moto jacket",
+      "category": "women",
+      "image": "https://images.bonanzastatic.com/afu/images/3482/4696/77/s-l1600__32_.jpg",
+      "sizes": ["XS", "S", "M"],
+      "colors": ["black", "brown"]
+    },
+    {
+      "id": 27,
+      "title": "Kids' Sneakers",
+      "price": 39.99,
+      "description": "Light-up sneakers with velcro straps",
+      "category": "kids",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.f_56ZdPz_9G4UCtTApCZTAHaHa&pid=Api&P=0&h=180",
+      "sizes": ["10", "11", "12"],
+      "colors": ["blue", "pink"]
+    },
+    {
+      "id": 28,
+      "title": "Yoga Mat",
+      "price": 29.99,
+      "description": "Non-slip yoga mat with carrying strap",
+      "category": "sports",
+      "image": "https://cdn.shopify.com/s/files/1/1728/2157/products/05-62214_lifestyle3.jpg?v=1509913344",
+      "sizes": ["Standard"],
+      "colors": ["purple", "blue"]
+    },
+    {
+      "id": 29,
+      "title": "Men's Watch",
+      "price": 149.99,
+      "description": "Stainless steel chronograph watch",
+      "category": "men",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-4.0.3&w=500&auto=format&fit=crop",
+      "sizes": ["Standard"],
+      "colors": ["silver", "black"]
+    },
+    {
+      "id": 30,
+      "title": "Women's Sunglasses",
+      "price": 59.99,
+      "description": "UV-protection cat-eye sunglasses",
+      "category": "sports",
+      "image": "https://ae01.alicdn.com/kf/HTB1Kw4Jwb1YBuNjSszhq6AUsFXaR/YOOSKE-2018-Oversized-Sunglasses-Women-Elegant-Frameless-Glitter-Color-Sun-glasses-Ladies-Shades-Vintage-Big-Frame.jpg",
+      "sizes": ["One Size"],
+      "colors": ["black", "tortoise"]
+    },
+    {
+      "id": 31,
+      "title": "Men's T-shirts",
+      "price": 34.99,
+      "description": "Classic fit cotton shirt with button-down collar",
+      "category": "men",
+      "image": "https://cdna.lystit.com/photos/nordstrom/138cda34/topman-Light-Brown-Oversize-Solid-T-shirt.jpeg",
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["blue", "white", "gray"]
+    },
+    {
+      "id": 32,
+      "title": "Women's T-shirts",
+      "price": 34.99,
+      "description": "Classic fit cotton shirt with button-down collar",
+      "category": "women",
+      "image": "https://i5.walmartimages.com/asr/92209c17-46a7-49aa-b093-cf819f121354_1.88ab839542d21594a3f64f018cd75edf.jpeg",
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["blue", "white", "gray"]
+    },
+    {
+      "id": 33,
+      "title": "Men's Slim Fit Shirt",
+      "price": 34.99,
+      "description": "Classic fit cotton shirt with button-down collar",
+      "category": "men",
+      "image": "https://handcmediastorage.blob.core.windows.net/productimages/NY/NYPIA221-B40-02-800px-1040px.jpg",
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["blue", "white", "gray"]
+    },
+    {
+      "id": 34,
+      "title": "Men's Checks Shirt",
+      "price": 34.99,
+      "description": "Classic fit cotton shirt with button-down collar",
+      "category": "men",
+      "image": "https://5.imimg.com/data5/XO/AE/MY-39077357/mens-check-shirts-1000x1000.jpg",
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["blue", "white", "gray"]
+    },
+    {
+      "id": 35,
+      "title": "Women's Frocks",
+      "price": 34.99,
+      "description": "Classic fit cotton shirt with button-down collar",
+      "category": "women",
+      "image": "https://i.pinimg.com/originals/55/80/5b/55805bb6d0f40f029bcee31fb1d5b8ae.jpg",
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["blue", "white", "gray"]
+    },
+    {
+      "id": 36,
+      "title": "Women's Churidar",
+      "price": 34.99,
+      "description": "Classic fit cotton shirt with button-down collar",
+      "category": "women",
+      "image": "https://cdn.shopclues.com/images1/detailed/112701/151779767-112701610-1609503205.png",
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["blue", "white", "gray"]
+    }
+  ]
+}

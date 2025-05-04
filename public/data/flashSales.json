@@ -1,0 +1,46 @@
+{
+  "sectionTitle": "Flash Sales",
+  "endsIn": "2025-05-05T23:59:59Z",
+  "products": [
+    {
+      "id": "fs101",
+      "name": "Men's Casual Shirt",
+      "image": "https://res.cloudinary.com/dasvdkncm/image/upload/v1746242917/NYPIA221-B01-119887-800px-1040px-removebg-preview_mf4394.png",
+      "price": 1199,
+      "originalPrice": 1899,
+      "discountPercent": 37,
+      "stock": 25,
+      "rating": 4.2
+    },
+    {
+      "id": "fs102",
+      "name": "Women's Denim Jacket",
+      "image": "https://res.cloudinary.com/dasvdkncm/image/upload/v1746242917/76e0a704cacd0cbf22b08dfc4f602231--concepts-denim-jackets-removebg-preview_xi8atm.png",
+      "price": 1499,
+      "originalPrice": 2399,
+      "discountPercent": 38,
+      "stock": 15,
+      "rating": 4.5
+    },
+    {
+      "id": "fs103",
+      "name": "Sports Running Shoes",
+      "image": "https://res.cloudinary.com/dasvdkncm/image/upload/v1746242917/71PmnGC2ItL._AC_UL1000_-removebg-preview_ukunyn.png",
+      "price": 2499,
+      "originalPrice": 3599,
+      "discountPercent": 31,
+      "stock": 40,
+      "rating": 4.0
+    },
+    {
+      "id": "fs104",
+      "name": "Men's Pant",
+      "image": "https://res.cloudinary.com/dasvdkncm/image/upload/v1746242916/921e93d7a9cf44af2c94cf79e263f91c-removebg-preview_lkpsgy.png",
+      "price": 999,
+      "originalPrice": 1599,
+      "discountPercent": 38,
+      "stock": 60,
+      "rating": 4.3
+    }
+  ]
+}

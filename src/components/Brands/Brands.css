@@ -1,0 +1,126 @@
+.brands-section {
+  text-align: center;
+  padding: 50px 20px;
+  background: #f9f9f9;
+}
+
+.brands-heading {
+  font-size: 1.8rem;
+  margin-bottom: 30px;
+  color: #333;
+}
+
+.brands-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.brand-logo {
+  height: 40px;
+  .brands-section {
+    text-align: center;
+    padding: 60px 20px;
+    background: #f9f9f9; /
+  }
+
+  .brands-heading {
+    font-size: 1.8rem;
+    margin-bottom: 30px;
+    color: #333;
+  }
+
+  .brands-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px; /* Space between logos */
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .brand-logo {
+    height: 40px;
+    width: auto;
+    opacity: 0.7;
+    transition: opacity 0.3s ease;
+  }
+
+  .brand-logo:hover {
+    opacity: 1;
+    .brands-section {
+      text-align: center;
+      padding: 60px 20px;
+      background: #f9f9f9;
+    }
+
+    .brands-heading {
+      font-size: 1.8rem;
+      margin-bottom: 30px;
+      color: #333;
+    }
+
+    .brands-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      gap: 30px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .brand-logo {
+      height: 40px;
+      width: auto;
+      opacity: 0.7;
+      transition: opacity 0.3s ease;
+    }
+
+    .brand-logo:hover {
+      opacity: 1;
+    }
+
+    /* Responsive Adjustments */
+    @media (max-width: 768px) {
+      .brands-container {
+        gap: 20px;
+      }
+      .brand-logo {
+        height: 30px;
+      }
+    }
+  }
+
+  /* Responsive Adjustments */
+  @media (max-width: 768px) {
+    .brands-container {
+      gap: 20px;
+    }
+    .brand-logo {
+      height: 30px;
+    }
+  }
+  width: auto;
+  opacity: 0.7;
+  transition: opacity 0.3s ease;
+}
+
+.brand-logo:hover {
+  opacity: 1; /* Highlight on hover */
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .brands-container {
+    gap: 20px;
+  }
+  .brand-logo {
+    height: 30px;
+  }
+}
