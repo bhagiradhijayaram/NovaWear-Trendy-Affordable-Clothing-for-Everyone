@@ -26,12 +26,21 @@
 
 ## 📸 Screenshots
 
-(Add screenshots here if available)
+![Screenshot (637)](https://github.com/user-attachments/assets/ec31a0fa-71a1-43a5-8a2d-c124e17d612e)
+
+![Screenshot (635)](https://github.com/user-attachments/assets/bda4db98-7b04-476b-acd9-2eb1df86c25b) 
+
+![Screenshot (636)](https://github.com/user-attachments/assets/227e0a1c-03b6-4a43-9c9b-2403b1567b23)
+
+## 𝐔𝐬𝐞𝐫 𝐜𝐫𝐞𝐝𝐞𝐧𝐭𝐢𝐚𝐥𝐬:
+username: john@mail.com
+password: changeme
+
 
 ## 📂 How to Run Locally
 
 ```bash
-git clone https://github.com/yourusername/novawear.git
-cd novawear
+git clone https://github.com/bhagiradhijayaram/NovaWear-Trendy-Affordable-Clothing-for-Everyone.git
+cd Trends
 npm install
-npm start
+npm run dev
