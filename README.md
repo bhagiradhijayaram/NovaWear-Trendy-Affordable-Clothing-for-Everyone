@@ -1,12 +1,37 @@
-# React + Vite
+# 🛍️ NovaWear – Clothing Store Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**NovaWear** is a modern and responsive clothing store website built with **React.js** and **Redux**. It offers a seamless shopping experience with features like login authentication, product filtering, cart management, and a basic checkout system.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔐 **User Login** using FakeLoginAPI
+- 🧑‍💼 **Protected Routes** based on user roles
+- 🔎 **Product Filtering** by search and category (Men, Women, Kids, Sports)
+- 📄 **Pagination** for product browsing
+- 🛒 **Redux-based Cart**:
+  - Add & Remove Products
+  - Update Product Quantity
+- 💳 **Checkout Page** with a simple payment UI
+- 🍪 **Token Storage** using cookies
+- 🔁 **Navigation** with `react-router-dom`
+- 📱 **Fully Responsive UI** using CSS Grid
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React.js**
+- **Redux (Redux Toolkit)**
+- **React Router DOM**
+- **CSS Grid / Flexbox**
+- **js-cookie**
+
+## 📸 Screenshots
+
+(Add screenshots here if available)
+
+## 📂 How to Run Locally
+
+```bash
+git clone https://github.com/yourusername/novawear.git
+cd novawear
+npm install
+npm start
