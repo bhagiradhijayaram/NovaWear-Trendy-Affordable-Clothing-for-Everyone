@@ -32,6 +32,9 @@
 
 ![Screenshot (636)](https://github.com/user-attachments/assets/227e0a1c-03b6-4a43-9c9b-2403b1567b23)
 
+## Live Preview:
+Website Link: https://novawear5.netlify.app/
+
 ## 𝐔𝐬𝐞𝐫 𝐜𝐫𝐞𝐝𝐞𝐧𝐭𝐢𝐚𝐥𝐬:
 username: john@mail.com
 
